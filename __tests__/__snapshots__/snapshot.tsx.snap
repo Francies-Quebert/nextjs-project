@@ -83,6 +83,9 @@ exports[`renders homepage unchanged 1`] = `
       >
         Powered by
          
+        <div>
+          This is a footer
+        </div>
         <span
           class="logo"
         >

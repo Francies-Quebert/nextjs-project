@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
-import Footer from '../Component/Footer'
+import Footer from '../Components/Footer'
 import styles from '@/pages/index.module.css'
 
 export default function Home() {
